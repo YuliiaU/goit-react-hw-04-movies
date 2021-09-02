@@ -1,0 +1,23 @@
+.homePage {
+  width: 100%;
+}
+
+.homeList {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+  justify-content: space-around;
+}
+
+li {
+  list-style: none;
+}
+
+.btn {
+  display: block;
+}
+
+.movieInfo {
+  display: flex;
+}
